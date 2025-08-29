@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Emily Guyu Yang and I am a first year Master of Environmental Management student at Duke University, focusing on analytics & modeling and geospatial analysis. 
+My name is Emily and I am a second-year Master of Environmental Management student at Duke University, focusing on analytics & modeling and geospatial analysis. 
 <!--
 **emily-gy/emily-gy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
